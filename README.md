@@ -7,3 +7,4 @@ Volunteering at mentor at a CoderDojo showing young people how to create and hav
 in Scratch and mBlock to control small robots like OttoDIY and Otto+ with arms.
 
 Now understanding how to do branches, good for debuging, cool. Still working on merging 
+Done!
